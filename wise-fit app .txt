@@ -1,0 +1,22 @@
+wise-fit app description and functions:
+
+1. app will have a user-freindly gui.
+
+2. users will need to log in with his phisical details: age, gender, height, weight.
+
+3. after they fill those categories then theyll have ther option to choose theyre desired weight and how intese they want the proccess to be, so that the app can automatically provide a daily calorie limit in order to achieve the weight goal in the time wanted by the user.
+
+4. users can log theyre daily calories count and follow through the maintained calorie count remained for each day.
+* calories count reset each day at midnight.
+
+5. users can get set up manually daily calories and steps goals and get a notification at the end of every day if they managed to fail or succseed in each categoty
+
+6. users will be able to know the calorie value of a product by typing its name in a food serch bar and recieving all kinds of familiar outcomes to the product the users will serch.
+
+7. users will also be able to scan a product's barcode to get its full nutritional value.
+
+8. users will be able to create recipes for easier and shorter use in the future.
+
+9. users will be able to add sports activity and exercises.
+
+10. users will recieve a weekly report each week to track theyre activity and proccess.
